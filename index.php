@@ -17,7 +17,7 @@
             <a href="#"><img src="images/I_logo.gif" border="0" /></a>
         </div>
         <div class="I_header_r">
-            
+
             <?php
             session_start();
                 if(empty($_SESSION['user'])){//未登录
@@ -34,10 +34,10 @@
 
                 }
             ?>
-              
+
             <a href="register.php" target="_blank" class="b">注册</a>
-             
-               
+
+
 
         </div>
         <div class="clear"></div>
@@ -46,9 +46,9 @@
         <div class="I_menu">
             <ul>
                 <li><a href="#" class="w">首页</a></li>
-                <li><a href="#" class="w" target="_blank">文玩论坛</a></li>
-                <li><a href="#" class="w" target="_blank">文玩商城</a></li>
-                <li><a href="#" class="w" target="_blank">文玩资讯</a></li>
+                <li><a href="forum1.html" class="w" target="_blank">文玩论坛</a></li>
+                <li><a href="buy/index.html" class="w" target="_blank">文玩商城</a></li>
+                <!--<li><a href="#" class="w" target="_blank">文玩资讯</a></li>-->
             </ul>
         </div>
     </div>
@@ -96,14 +96,14 @@
             <p align="center">唐代观音像</p>
             <p align="center">98万</p>
         </div>
-  
+
         <div class="clear"></div>
     </marquee>
 
     <div class="clear"></div>
     <div class="I_main_l">
 
-        
+
         <!--<table align="left" width="700" cellpadding="0" cellspacing="10" style="margin-top:20px;border:1px solid #eeeeee;border-top:5px solid #ff5b36;background-color:#fdfdfd;">
             <tr>
                 <td width="350"><a href="http://bbs.wwtx.cn/thread-3745873-1-1.html" target="_blank"><img src="images/daypai.gif" width="330" style="border:1px solid #eeeeee;" /></a></td>
@@ -286,12 +286,12 @@
               </ul>
             </div>
         </div>
-        
+
 
   </div>
-    
+
     <div class="clear"></div>
-    
+
 </div>
 <div class="clear" style="width:100%;height:20px;"></div>
 
