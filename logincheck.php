@@ -13,6 +13,12 @@
 	if(mysql_num_rows($result)>0){//数据库中有此用户
 		//echo 'user exits';
 		$_SESSION['user'] = $username;
-		//echo 'read from seesion:'.$_SESSION['user'];
+		echo '登录成功';
+		header('Location:index.php');
+	}
+	else
+	{
+		echo "用户名或密码错误"."<a href='login.php'>点击返回</a>";
+		exit(0);
 	}
 ?>

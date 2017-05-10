@@ -156,9 +156,9 @@
 				<div id="registered">注册</div>
 				<div class="fix"></div>
 				<div id="registered-content">
-					<div class="inp"><input type="text" placeholder="请输入用户名" name="username" /></div>
-					<div class="inp"><input type="password" placeholder="请输入密码" name="password" /></div>
-					<div class="inp"><input type="password" placeholder="请再次输入密码" name="password2"/></div>
+					<div class="inp"><input type="text" placeholder="请输入用户名" name="username" required="required" /></div>
+					<div class="inp"><input type="password" placeholder="请输入密码" name="password" required="required" /></div>
+					<div class="inp"><input type="password" placeholder="请再次输入密码" name="password2" required="required" /></div>
 					<!--<div class="inp"><input type="email" placeholder="电子邮箱" name="email" /></div>-->
 					<input class="login" type="submit" value="立即注册" />
 				</div>
