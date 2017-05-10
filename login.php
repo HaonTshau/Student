@@ -160,7 +160,7 @@ session_start();
 			<div id="landing">登录</div>
 			<div class="fix"></div>
 			<div id="landing-content">
-				<div id="photo"><img src="img/photo.jpg" /></div>
+				<div id="photo"><img src="images/photo.jpg" /></div>
 				<div class="inp"><input type="text" placeholder="用户名" required="required" name="username" id="username"/></div>
 				<div class="inp"><input type="password" placeholder="密码" required="required" name="password" id="password"/></div>
 				<input type="submit" class="login" id="login" value="登录" />
