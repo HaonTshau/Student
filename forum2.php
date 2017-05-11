@@ -166,7 +166,7 @@ initSearchmenu('scbar', 'http://search.discuz.qq.com/f/discuz');
 <!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
 <div id="pt" class="bm cl">
 <div class="z">
-	<a href="#" class="nvhm" title="首页">文玩论坛</a> <em>›</em> <a href="#">论坛</a><em>›</em> <a href="#">【开盘记录】新弄个36的白狮子，练练手</a> 
+	<a href="#" class="nvhm" title="首页">文玩论坛</a> <em>›</em> <a href="#">论坛</a><em>›</em> <a href="#">【开盘记录】新弄个36的白狮子，练练手</a>
 </div>
 </div>
 
@@ -179,7 +179,7 @@ initSearchmenu('scbar', 'http://search.discuz.qq.com/f/discuz');
 <div id="pgt" class="pgs mbm cl ">
 <div class="pgt"><div class="pg"><strong>1</strong><a href="#" class="nxt">下一页</a></div></div>
 <span class="y pgb"><a href="#">返回列表</a></span>
-<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&amp;action=newthread&amp;fid=101')" href="javascript:;" title="发新帖"><img src="./img/pn_post.png" alt="发新帖"></a></div>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&amp;action=newthread&amp;fid=101')" href="editor.php" title="发新帖"><img src="./img/pn_post.png" alt="发新帖"></a></div>
 
 
 
@@ -442,7 +442,7 @@ initSearchmenu('scbar', 'http://search.discuz.qq.com/f/discuz');
 
 <div class="pgs mtm mbm cl">
 <div class="pg"><strong>1</strong><a href="#" class="nxt">下一页</a></div><span class="pgb y"><a href="#">返回列表</a></span>
-<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&amp;action=newthread&amp;fid=101')" href="javascript:;" title="发新帖"><img src="./img/pn_post.png" alt="发新帖"></a></div>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&amp;action=newthread&amp;fid=101')" href="editor.php" title="发新帖"><img src="./img/pn_post.png" alt="发新帖"></a></div>
 
 <!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
 <script type="text/javascript">
@@ -479,7 +479,7 @@ var disablepostctrl = parseInt('0');
 <a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
 </div></div>
 <div class="area">
-<div class="pt hm">您需要登录后才可以回帖 <a href="http://bbs.netbig.com/member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="#" class="xi2">注册</a> 
+<div class="pt hm">您需要登录后才可以回帖 <a href="http://bbs.netbig.com/member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="#" class="xi2">注册</a>
 <a href="http://bbs.netbig.com/connect.php?mod=login&amp;op=init&amp;referer=forum.php%3Fmod%3Dviewthread%26tid%3D2774651%26extra%3Dpage%253D1%26page%3D1&amp;statfrom=login" target="_top" rel="nofollow"><img src="./img/qq_login.gif" class="vm"></a>
 </div>
 </div>
