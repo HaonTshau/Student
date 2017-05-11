@@ -46,7 +46,7 @@
         <div class="I_menu">
             <ul>
                 <li><a href="#" class="w">首页</a></li>
-                <li><a href="forum1.html" class="w" target="_blank">文玩论坛</a></li>
+                <li><a href="forum1.php" class="w" target="_blank">文玩论坛</a></li>
                 <li><a href="buy/index.html" class="w" target="_blank">文玩商城</a></li>
                 <!--<li><a href="#" class="w" target="_blank">文玩资讯</a></li>-->
             </ul>
