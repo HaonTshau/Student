@@ -16,7 +16,7 @@ session_start();
         .btt{
             height:60px;
             width:100px;
-            flow: right;
+            float:right;
         }
     </style>
 </head>
@@ -163,7 +163,7 @@ initSearchmenu('scbar', 'http://search.discuz.qq.com/f/discuz');
 </div>
 
 <style id="diy_style" type="text/css"></style>
-<div class="wp" style="text-align:right">
+<div class="wp">
     <script id="container" name="content" type="text/plain"></script>
     <script type="text/javascript" src="./plugins/UEditor/ueditor.config.js"></script>
     <script type="text/javascript" src="./plugins/UEditor/ueditor.all.js"></script>
@@ -188,9 +188,6 @@ initSearchmenu('scbar', 'http://search.discuz.qq.com/f/discuz');
 
 
 
-<div class="wp mtn">
-<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
-</div>
 
 <script type="text/javascript">
 var relatedlink = [];relatedlink[0] = {'sname':'高中', 'surl':'http://bbs.netbig.com/forum-268-1.html'};
