@@ -200,7 +200,7 @@ initSearchmenu('scbar', 'http://search.discuz.qq.com/f/discuz');
 
 
 <!--
-ID: toplist_7ree 
+ID: toplist_7ree
 version: 7.7
 (C)2007-2012 [www.7ree.com]
 This is NOT a freeware, use is subject to license terms
@@ -209,7 +209,7 @@ Agreement: http://www.7ree.com/agreement.html
 More Plugins: http://www.7ree.com/thread-7407-1-1.html
 -->
 <script src="source/plugin/toplist_7ree/template/images/SlideTrans.js" type="text/javascript"></script>
-<style type="text/css"> 
+<style type="text/css">
 .container, .container img{width:280px; height:200px;}
 .container img{border:0;vertical-align:top;}
 .container ul, .container li{list-style:none;margin:0;padding:0;}
@@ -248,13 +248,13 @@ color:#FFF;
 <img id="category__img" src="./img/collapsed_no.gif" title="收起、展开四格" alt="收起、展开四格" onclick="toggle_collapse('category_');" onload="showPrompt(null, null, '亲，快登录吧！ 登录后就可浏览更多精彩内容…… ^o^ ', '10000');"/>
 </span>
 <span class="y">
-       
+
 
 2017年5月8日 星期一
-    
+
             </span>
 
-<h2>					
+<h2>
 
 『健康时刻』
 <script language="JavaScript">
@@ -342,7 +342,7 @@ document.write(health_message_7ree)
 			<a href="#"><img src="./img/common_12_icon.jpg" align="left" alt="" /></a>
 			</td>
 			<td>
-				<h2><a href="forum2.html">文玩核桃</a><em class="xw0 xi1" title="今日"> (1463)</em></h2>
+				<h2><a href="forum2.php">文玩核桃</a><em class="xw0 xi1" title="今日"> (1463)</em></h2>
 				<p class="xg2">文韬武略股掌间　玩笑谈吐人中仙　天帝种得虬龙果　下至凡尘作神丹</p><p>版主: <span class="xi2"><a href="">三分</a>,<a href="">幸运星</a>,<a href="">核为贵精品核桃</a></span></p></td>
 			<td class="fl_i">
 				<span class="xi2">145966</span><span class="xg1"> / 1794533</span></td>
